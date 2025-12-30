@@ -73,3 +73,14 @@ docker-compose logs -f
 ## License 📄
 
 MIT
+
+## Author 🎨
+
+- **Rajesh Sharma** - [Rashtecq](https://github.com/rashtecq)
+
+# Bonus Tips
+Until now, this application is working withing local environment.  I have taken this application to production using cloudflare tunnel.
+you can also use cloudflare or similar services to expose your application over the internet.
+
+I would love to connect and share ideas.  Please reach out to me on [LinkedIn](https://www.linkedin.com/in/rashtecq/).
+  
